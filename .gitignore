@@ -19,7 +19,7 @@ $RECYCLE.BIN/
 *.tlog
 *.pch
 *.idb
-
+*.sdf
 # =========================
 # Operating System Files
 # =========================
