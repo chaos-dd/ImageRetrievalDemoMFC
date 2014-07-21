@@ -1,0 +1,8 @@
+
+#define COLOR_SPACE_HLS		0
+#define COLOR_SPACE_BGR		1
+
+
+#define GLOBAL_COLOR_FEAT  0
+#define GLOBAL_TEXTURE_FEAT 1
+#define GLOBAL_SHAPE_FEAT 2

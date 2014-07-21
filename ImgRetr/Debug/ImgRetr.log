@@ -1,0 +1,111 @@
+﻿生成启动时间为 2014/7/21 15:12:13。
+     1>项目“D:\CodeCollection\MFCImageRetrievalDemo\ImgRetr\ImgRetr.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ImgRetr.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ImgRetr.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\features\FeatureExactor.cpp ..\utilities\searchEngine.cpp DatabaseCtrl.cpp GlobalFeat.cpp ImgRetrDlg.cpp PicCtrl.cpp ResultShow.cpp Search.cpp
+         searchEngine.cpp
+     1>d:\codecollection\mfcimageretrievaldemo\utilities\databaseinfo.h(48): warning C4101: “e”: 未引用的局部变量
+         正在生成代码...
+         正在编译...
+         Search.cpp
+     1>d:\codecollection\mfcimageretrievaldemo\utilities\databaseinfo.h(48): warning C4101: “e”: 未引用的局部变量
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(124): warning C4244: “*=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(125): warning C4244: “*=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(149): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(150): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(158): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(159): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(167): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(168): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(177): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(185): warning C4244: “*=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(186): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(195): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(196): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(207): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(208): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(209): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(210): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(218): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(219): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(220): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(221): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(227): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(228): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(229): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(230): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(379): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(380): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\search.cpp(381): warning C4305: “参数”: 从“double”到“float”截断
+         ResultShow.cpp
+     1>d:\codecollection\mfcimageretrievaldemo\utilities\databaseinfo.h(48): warning C4101: “e”: 未引用的局部变量
+         PicCtrl.cpp
+     1>d:\codecollection\mfcimageretrievaldemo\utilities\databaseinfo.h(48): warning C4101: “e”: 未引用的局部变量
+         ImgRetrDlg.cpp
+     1>d:\codecollection\mfcimageretrievaldemo\utilities\databaseinfo.h(48): warning C4101: “e”: 未引用的局部变量
+         GlobalFeat.cpp
+     1>d:\codecollection\mfcimageretrievaldemo\utilities\databaseinfo.h(48): warning C4101: “e”: 未引用的局部变量
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\globalfeat.cpp(183): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\globalfeat.cpp(184): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\globalfeat.cpp(186): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\globalfeat.cpp(187): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\globalfeat.cpp(199): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\globalfeat.cpp(200): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\globalfeat.cpp(202): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\globalfeat.cpp(203): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+         DatabaseCtrl.cpp
+     1>d:\codecollection\mfcimageretrievaldemo\utilities\databaseinfo.h(48): warning C4101: “e”: 未引用的局部变量
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(100): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(101): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(103): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(104): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(116): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(117): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(119): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(120): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+     1>d:\codecollection\mfcimageretrievaldemo\imgretr\databasectrl.cpp(352): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+         FeatureExactor.cpp
+     1>d:\codecollection\mfcimageretrievaldemo\utilities\databaseinfo.h(48): warning C4101: “e”: 未引用的局部变量
+         正在生成代码...
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CodeCollection\MFCImageRetrievalDemo\Debug\ImgRetr.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\ImgRetr.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\CodeCollection\MFCImageRetrievalDemo\Debug\ImgRetr.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CodeCollection\MFCImageRetrievalDemo\Debug\ImgRetr.lib" /MACHINE:X86 Debug\ImgRetr.res
+         Debug\ImgRetr.exe.embed.manifest.res
+         Debug\color_feature.obj
+         Debug\FeatureExactor.obj
+         Debug\globalFeatureExactor.obj
+         Debug\lbp.obj
+         Debug\shapeFeature.obj
+         Debug\DatabaseInfo.obj
+         Debug\FindFiles.obj
+         Debug\searchEngine.obj
+         Debug\DatabaseCtrl.obj
+         Debug\drawToDC.obj
+         Debug\GlobalFeat.obj
+         Debug\ImgRetr.obj
+         Debug\ImgRetrDlg.obj
+         Debug\LocalFeat.obj
+         Debug\PicCtrl.obj
+         Debug\ResultShow.obj
+         Debug\Search.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ImgRetr.exe.embed.manifest" /manifest Debug\ImgRetr.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         ImgRetr.vcxproj -> D:\CodeCollection\MFCImageRetrievalDemo\Debug\ImgRetr.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ImgRetr.unsuccessfulbuild”。
+         正在对“Debug\ImgRetr.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\CodeCollection\MFCImageRetrievalDemo\ImgRetr\ImgRetr.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.00

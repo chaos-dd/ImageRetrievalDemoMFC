@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="features">
+      <UniqueIdentifier>{9b6af5ea-5f70-4ca5-b552-5e03fe5f4e8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utilities">
+      <UniqueIdentifier>{30881141-c1c1-43d4-9a10-6d5cbd1e2e73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\ImgRetr.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\ImgRetr.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\1.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\16.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\summer_collection_004.ico">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ImgRetr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ImgRetrDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Search.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DatabaseCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PicCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultShow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LocalFeat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalFeat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\features\color_feature.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="..\features\FeatureExactor.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="..\features\lbp.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="..\features\shapeFeature.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="..\utilities\allInclude.h">
+      <Filter>utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\utilities\DatabaseInfo.h">
+      <Filter>utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\utilities\FindFiles.h">
+      <Filter>utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\utilities\searchEngine.h">
+      <Filter>utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="globalFeatureExactor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\features\globalFeatureExactor.h">
+      <Filter>features</Filter>
+    </ClInclude>
+    <ClInclude Include="drawToDC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ImgRetr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ImgRetrDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DatabaseCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PicCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultShow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LocalFeat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalFeat.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\features\color_feature.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="..\features\FeatureExactor.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="..\features\shapeFeature.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="..\utilities\DatabaseInfo.cpp">
+      <Filter>utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\utilities\FindFiles.cpp">
+      <Filter>utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\utilities\searchEngine.cpp">
+      <Filter>utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\features\lbp.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+    <ClCompile Include="drawToDC.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\features\globalFeatureExactor.cpp">
+      <Filter>features</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ImgRetr.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
